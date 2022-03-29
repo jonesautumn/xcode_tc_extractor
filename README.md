@@ -2,6 +2,8 @@
 
 This repo will extract all test case (name, id, and jira link) from a test case file in Tokopedia iOS Xcode repo.
 
+The purpose of extracting all test cases in Xcode is to help you to identify which corresponding TC need to be migrated over Katalon.
+
 ## How to Use
 
 ```bash
